@@ -1,0 +1,6 @@
+{
+  "name": "Nashik EcoRoute AI",
+  "description": "Advanced civic AI waste management agent that triages reports, analyzes waste hazards, and optimizes municipal dispatch routes in Nashik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
